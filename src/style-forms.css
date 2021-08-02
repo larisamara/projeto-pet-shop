@@ -4,6 +4,7 @@
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
+  height:100vh;
 }
 
 
@@ -13,22 +14,9 @@
 
 
 
-.container {
-  padding-top: 100px;
-}
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 
-html,
-body {
-  -moz-box-sizing: border-box;
-       box-sizing: border-box;
-  height: 100%;
-  width: 100%; 
-  background: #FFF;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-}
  
 .wrapper {
   display: table;
